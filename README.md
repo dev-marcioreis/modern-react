@@ -2,6 +2,8 @@
 
 Projeto finalizado com objetivo alcançado em desenvolver em React um menu (navbar).<br>
 Link de acesso:
+![image](https://user-images.githubusercontent.com/122680054/213478089-e548c196-5b7a-4101-b6f1-737daca15166.png)
+
 
 
 Getting Started with Create React App

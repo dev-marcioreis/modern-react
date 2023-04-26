@@ -7,7 +7,7 @@ Este projeto não foi finalizado por completo, apenas aprendizado.
 
 ## 🚀 Aprendizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
